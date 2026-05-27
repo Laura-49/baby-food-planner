@@ -1,0 +1,10 @@
+{
+  "name": "宝宝辅食计划",
+  "short_name": "辅食计划",
+  "description": "根据宝宝年龄自动生成一周辅食食谱",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ff6b6b",
+  "icons": []
+}
